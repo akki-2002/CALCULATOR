@@ -1,4 +1,4 @@
-# LGMVIP-Web-Task-4
+# Calculator Project
 
 Check out my fantastic calculator that was created with HTML, CSS, and JavaScript!
 
